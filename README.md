@@ -1,3 +1,5 @@
+This Fork merges TRV support
+
 
 This Fork adds more device support for the fantastaic Homebridge-Tuya plugin!
 
