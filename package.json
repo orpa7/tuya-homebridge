@@ -1,7 +1,7 @@
 {
-  "name": "homebridge-tuya-platform-talrhvfork",
-  "version": "1.5.7",
-  "description": "Official Homebridge plugin for Tuya Open API - talrhv fork, maintained by talrhv.",
+  "name": "homebridge-tuya-platform-orpa7fork",
+  "version": "1.6.1",
+  "description": "Official Homebridge plugin for Tuya Open API.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,7 +12,7 @@
   ],
   "author": "huhuan",
   "license": "MIT",
-  "homepage": "https://github.com/talrhv/tuya-homebridge",
+  "homepage": "https://github.com/orpa7/tuya-homebridge",
   "engines": {
     "node": ">=14.0.0",
     "homebridge": ">=1.0.0"
@@ -30,7 +30,7 @@
     "uuid": "^8.3.2"
   },
   "funding": {
-    "type" : "paypal",
-    "url" : "https://www.paypal.me/talrhv"
+    "type" : "",
+    "url" : ""
   }
 }
